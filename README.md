@@ -1,5 +1,9 @@
 # ☀️ Solar Power Prediction Using Machine Learning
+- ## 📓 Google Colab Notebook
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/drive/1APYmO93QkaoVJIEDzbeh8w7lGATOPJgw?usp=sharing
+
+---
 ## 📌 Project Overview
 
 Solar power generation depends on environmental factors such as solar irradiation, ambient temperature, module temperature, and time of day. These factors continuously change, resulting in fluctuations in electricity generation.
@@ -228,10 +232,6 @@ Symbiosis Institute of Technology, Hyderabad
 
 - Kaggle for providing the Solar Power Generation dataset.
 - Scikit-learn, XGBoost, TensorFlow, and Python open-source communities.
-- ## 📓 Google Colab Notebook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/drive/1APYmO93QkaoVJIEDzbeh8w7lGATOPJgw?usp=sharing
-
----
 
 ⭐ If you find this project useful, feel free to explore the notebook and its implementation!
